@@ -1,0 +1,3 @@
+laughter - risos
+
+wasted - perdido
