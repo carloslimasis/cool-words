@@ -13,3 +13,5 @@ become - torna-se, ficar
 their - seus
 
 venture - risco
+
+luggage - bagagem
