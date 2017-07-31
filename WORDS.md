@@ -17,3 +17,5 @@ venture - risco
 luggage - bagagem
 
 illness - doença
+
+hassle - aborrecimento
